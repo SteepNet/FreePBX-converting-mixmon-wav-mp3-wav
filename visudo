@@ -1,0 +1,6 @@
+# asterisk ALL = NOPASSWD: /bin/nice
+# asterisk ALL = NOPASSWD: /bin/chown
+# asterisk ALL = NOPASSWD: /usr/bin/ionice
+# asterisk ALL = NOPASSWD: /usr/bin/chmod
+# asterisk ALL = NOPASSWD: /usr/bin/touch
+# asterisk ALL = NOPASSWD: /usr/bin/test
