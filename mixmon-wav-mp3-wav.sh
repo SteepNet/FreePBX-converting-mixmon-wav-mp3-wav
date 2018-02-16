@@ -13,7 +13,7 @@
 # Create a directory:
 # mkdir -p /etc/asterisk/scripts; chown asterisk. /etc/asterisk/scripts
 # Take the script with github:
-# wget https://raw.githubusercontent.com/andrey0001/fpbx-elastix/master/mixmon-wav-mp3-wav.sh -O /etc/asterisk/scripts/mixmon-wav-mp3-wav.sh
+# wget https://github.com/SteepNet/FreePBX-converting-mixmon-wav-mp3-wav/blob/master/mixmon-wav-mp3-wav.sh -O /etc/asterisk/scripts/mixmon-wav-mp3-wav.sh
 # Installing file permissions:
 # chown asterisk. /etc/asterisk/scripts/mixmon-wav-mp3-wav.sh
 # chmod a+x /etc/asterisk/scripts/mixmon-wav-mp3-wav.sh
