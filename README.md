@@ -59,5 +59,6 @@
 # -----------------------------------
 # Converting:
 # To convert files, run the command from the console:
+# cd /etc/asterisk/scripts/
 # find /var/spool/asterisk/monitor/ -name '*.wav' -exec ./conversion-wav-mp3-wav.sh {} \;
 # -----------------------------------
